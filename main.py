@@ -1,9 +1,10 @@
 #Iniciacion con tkinter crear una ventana
 #Importamos los componentes necesarios
-from ctypes import alignment
+#EJEMPLO GEOMETRIA PACK 
+#cuando queremos posicionar elementos de arriba a abajo o cara a cara (izq-der)
+
 import tkinter
 
-#Geometria Pack, cuando queremos posicionar elementos de arriba a abajo o cara a cara (izq-der)
 window = tkinter.Tk() #Creamos una instancia de tk
 
 

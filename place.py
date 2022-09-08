@@ -25,3 +25,4 @@ label2 = tkinter.Label(window,text="RELATIVO", bg='red', fg='yellow')
 label2.place(relx = 1, rely=0.15,relwidth= 0.5, anchor='ne')
 
 window.mainloop()
+s
